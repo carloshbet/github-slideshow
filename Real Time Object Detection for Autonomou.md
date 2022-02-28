@@ -11,6 +11,7 @@ object detection,
 Drivable area segmentation and 
 lane detection
 
+(1.1.2.) The visual perception system needed to perform the critical tasks
 
 THE VISUAL PERCEPTION SYSTEM plays a significant role in autonomous driving, as it can extract visual information from the images taken by the camera and assist the decision system to control the actions of the vehicle. In order to restrict the manoeuvre of vehicles, the visual perception system should be able to understand the scene and then provide the decision system with information including locations of the obstacles, judgements of whether the road is drivable, the position of the lanes etc.
 
